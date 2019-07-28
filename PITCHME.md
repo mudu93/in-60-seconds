@@ -1,8 +1,8 @@
-# Let's Get Started
+# Here we go again!
 
 ---
 
-## Add Some Slide Candy
+## Add some Js projects
 
 ![](assets/img/presentation.png)
 
