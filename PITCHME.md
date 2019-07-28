@@ -13,7 +13,7 @@
 ## Customize the Layout
 @snapend
 
-@snap[east span-50]
+@snap[east span-25]
 ![](present.jpg.jpg)
 @snapend
 
