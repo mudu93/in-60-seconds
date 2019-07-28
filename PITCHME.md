@@ -4,7 +4,7 @@
 
 ## Add some Js projects
 
-![](assets/img/presentation.png)
+![](present.jpg.jpg)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
@@ -14,7 +14,7 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](present.jpg.jpg)
 @snapend
 
 @snap[south span-100 text-white]
